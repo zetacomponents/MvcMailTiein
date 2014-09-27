@@ -29,10 +29,11 @@
     "license": "Apache-2.0",
     "name": "zetacomponents/mvc-mail-tiein",
     "type": "library",
-        "require": {
-            "zetacomponents/base": "*"
-        },
-        "require-dev": {
-            "zetacomponents/unit-test": "*"
-        }
+    "require": {
+        "zetacomponents/mvc-tools": "~1.1",
+        "zetacomponents/mail": "~1.7",
+    },
+    "require-dev": {
+        "zetacomponents/unit-test": "*"
+    }
 }

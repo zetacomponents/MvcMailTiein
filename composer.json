@@ -31,7 +31,7 @@
     "type": "library",
     "require": {
         "zetacomponents/mvc-tools": "~1.1",
-        "zetacomponents/mail": "~1.7",
+        "zetacomponents/mail": "~1.7"
     },
     "require-dev": {
         "zetacomponents/unit-test": "*"
